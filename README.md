@@ -6,10 +6,10 @@
 ![Header Banner](https://i.ibb.co/dsx2pftj/Solana-Trading-Bots-1.jpg)
 
 
-**A powerful automated trading bot for lightning-fast and efficient token trading on the Solana blockchain.**
+## **A powerful automated trading bot for lightning-fast and efficient token trading on the Solana blockchain.**
 
-**Sniping. Speed. Precision.**  
-Built for those who don’t wait — it acts.
+### **Sniping. Speed. Precision.**  
+### Built for those who don’t wait — it acts.
 
 
 </div>
@@ -82,7 +82,7 @@ STOP_LOSS_PERCENT=50
 ## ⭐ Like it? Star it! ⭐ 
 Your ⭐ on GitHub is the best support for the project.
 
-- Solana Turbo Trader — not just a bot. It’s a weapon in the DeFi battlefield.
-Trade faster. Trade smarter. Trade with turbo.
+⭐⭐⭐ Solana Turbo Trader — not just a bot. It’s a weapon in the DeFi battlefield.
+Trade faster. Trade smarter. Trade with turbo. ⭐⭐⭐
 </div>
 
